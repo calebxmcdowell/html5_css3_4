@@ -187,6 +187,9 @@ footer p {
 	    width: 100%;
 	    margin: 0;
 	    border: none;
+<<<<<<< HEAD
+        grid-gap: 1.5em;
+=======
         grid-template: repeat(4, auto) / 1fr;
         grid-gap: 1.5em;
         grid-template-areas:
@@ -194,6 +197,7 @@ footer p {
             "navi"
             "main"
             "foot";
+>>>>>>> c719766632134c00a82ce0bc4eba36ee671c66cd
     }
     header {
         display: grid;

@@ -165,6 +165,9 @@ aside li {
 	font-size: .875em;              /* 14 / 16 */
 	padding-bottom: .35em;
 }
+aside a.date_passed {
+	color: gray;
+}
 /* the styles for the footer */
 footer {
 	clear: both;

@@ -193,7 +193,7 @@ footer p {
 }
 @media print {
 	body {
-		font-family: "Times New Roman", Times, serif";
+		font-family: "Times New Roman", Times, serif;
 		width: auto;
 		border: none;
 	}
